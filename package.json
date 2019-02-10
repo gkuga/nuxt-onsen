@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-onsen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "HOST=0.0.0.0 nuxt",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.3",
+    "onsenui": "^2.10.6",
+    "vue-onsenui": "^2.6.2"
+  }
+}
